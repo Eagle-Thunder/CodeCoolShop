@@ -9,7 +9,8 @@ This here project simulates a simple online shop. A place where people can buy t
 
 # The HOW
 The project uses an ASP.NET server backed by an MSSQL database accessed via the ASP.NET Entity framework.
-It simulates the entire user experience - from browsing products, autentication, owning a shopping cart to processing of payment.
+Output is procesed through Razor pages and simulates the entire user experience - from browsing products,
+autentication with ASP.NET Identity, owning a shopping cart to processing of payment.
 For its intended purpose as a learning tool, we are pleased with the results of this little simulation.
 
 # The WHO
